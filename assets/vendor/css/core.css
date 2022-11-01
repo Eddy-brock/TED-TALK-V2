@@ -2215,7 +2215,7 @@ progress {
   height: 1.53em;
 }
 .form-control::-moz-placeholder {
-  color: #b4bdc6;
+  color: #ffffff;
   opacity: 1;
 }
 .form-control::placeholder {
